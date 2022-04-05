@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+.topbox{
+    width: 2000px;
+    height: 100px;
+    background-color: gray;
+    display: flex;
+    align-items: flex-start;
+    
+    
+}
+.top{
+    background-color: blue;
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+    z-index: 2;
+}
+p{
+    text-align: center;
+    margin: 20px;
+}
+.box1{
+    background-color: blue;
+    height: 150px;
+}
+.box2{
+    background-color: aquamarine;
+    height: 150px;
+}
+.box3{
+    background-color:yellowgreen;
+    height: 150px;
+}
+.box4{
+    background-color: yellow;
+    height: 150px;
+}
